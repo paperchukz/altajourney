@@ -477,6 +477,80 @@ footer a:hover{
 	.navbar-nav li{
 	}
 
+	.alt{
+	
+		background-image: url('../wood.jpg');
+		height: 100%; 
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	
+	.alt2{
+		font-family: 'Great Vibes', cursive;
+		font-size: 2rem;
+		text-align: center;
+		color:whitesmoke;
+		text-shadow: 2px 2px  5px #555c66;
+		padding-top: 50px;
+	}
+	
+	.desc{
+		font-family: 'Courgette', cursive;
+		color:rgb(236, 230, 230);
+		font-size: 15px;
+		text-shadow: 2px 2px  7px #555c66;
+		
+		text-align: center;
+		text-transform: capitalize;
+	}
+	
+	.alt3{
+		font-family: 'Courgette', cursive;
+		font-size: ;
+		
+		text-align: center;
+		color:whitesmoke;
+		/* text-shadow: 2px 2px  9px #555c66; */
+		padding-top: 50px;
+	}
+	
+	.btn-default{
+		background-color: transparent !important;
+		border: 1px solid rgb(216, 216, 219) !important;
+		border-radius: 0px !important;
+	}
+	
+	.btn-default:hover{
+		background-color: whitesmoke !important;
+		color: rgb(104, 103, 103) !important;
+		border: 1px solid whitesmoke !important;
+		border-radius: 0px !important;
+	}
+	
+	.btn-default:focus, .btn-default:active, .btn-default.active {
+		background-color: rgb(202, 200, 200) !important; }
+	
+	.show > .btn-default.dropdown-toggle {
+		-webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+		background-color: rgb(202, 200, 200) !important; }
+	
+	
+	.bing{
+		position: fixed;
+		left: 15px;
+		font-size: 12px;
+		bottom: 0;
+		width: 100%;
+		background-color: transparent;
+		color: rgb(133, 133, 133);
+		/* font-family: 'Cookie', cursive; */
+		text-align: right;
+		padding-right: 30px;
+		
+	}
+
 	.atas{
 		margin-top: 55px;
 	}
