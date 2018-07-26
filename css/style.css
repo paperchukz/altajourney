@@ -495,6 +495,15 @@ footer a:hover{
 		padding-top: 50px;
 	}
 	
+	-webkit-.alt2{
+		font-family: 'Great Vibes', cursive;
+		font-size: 4rem;
+		text-align: center;
+		color:whitesmoke;
+		text-shadow: 2px 2px  5px #555c66;
+		padding-top: 50px;
+	}
+	
 	.desc{
 		font-family: 'Courgette', cursive;
 		color:rgb(236, 230, 230);
